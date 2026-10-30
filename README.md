@@ -22,7 +22,7 @@ Jestem absolwentem Wojskowej Akademii Technicznej w Warszawie, który ukończył
 - **Hackathony:** Uczestniczyłem w  pracy nad projektem *QSCAPE* podczas *Junction Quantum Hack 2026*
 - **Języki:** Polski (ojczysty), Angielski (C1 – Cambridge English), Niemiecki (podstawowy)
 
-[Moje CV](CV - Michał Skrobucha.pdf)
+[Moje CV](<CV - Michał Skrobucha.pdf>)
 
 ---
 
